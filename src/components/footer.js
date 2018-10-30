@@ -6,7 +6,7 @@ class Footer extends Component {
       return (
     <div className="footer">
         <div className="container">
-            <p className="text-center"> © Sudono 2018
+            <p className="text-center"> © Sudono Sugianto 2018
             <span> | Grow | Winner | Customer | Positive | Integrity | Lead | Fun</span>
             <span><a className='icons' href="#"><i className="fab fa-instagram"></i></a></span>
             <span><a className='icons' href="#"><i className="fab fa-twitter"></i></a></span>
