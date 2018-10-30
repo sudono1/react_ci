@@ -1,0 +1,23 @@
+.img {
+    height: 50px;
+}
+
+.title, .title:hover {
+    color: black
+}
+
+.love {
+    color: black
+}
+
+.love:hover{
+    color: red
+}
+
+.icon {
+    color: black
+}
+
+.icon:hover{
+    color: blue
+}

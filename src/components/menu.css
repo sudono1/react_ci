@@ -1,0 +1,25 @@
+.navbar input[type=text] {
+    float: right;
+    padding: 6px;
+    right: 0px;
+    font-size: 17px;
+}
+
+.search-button {
+    height: 20px;
+    width: auto
+}
+
+.img-logo-brand {
+    animation: img-logo-spin infinite 10s linear;
+    height: 50px;
+  }
+
+@keyframes img-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

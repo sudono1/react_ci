@@ -1,0 +1,15 @@
+.footer {
+    margin-top: 50px;
+    padding-bottom: 10px;
+    color: grey;
+}
+
+.icons {
+   float: right;
+   padding-left: 20px;
+   color: grey
+}
+
+.icons:hover{
+    color:black
+}
